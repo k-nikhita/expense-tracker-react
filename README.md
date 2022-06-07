@@ -1,3 +1,11 @@
+# Expense Tracker App with React
+
+A basic expense tracker app that uses useState, useContext and useReducer hooks and the contextAPI.
+
+To do next:
+- add a backend API with Express and MongoDB
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
